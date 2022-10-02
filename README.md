@@ -1,9 +1,7 @@
 
 ### Hi there, this is Edgecoordinates 👋
 
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=edge-coordinates&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
-
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=edge-coordinates&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
+![Metrics](https://metrics.lecoq.io/Edge-coordinates?template=classic&repositories.affiliations=admin&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 - 🔭 I’m currently working on Python;
 - 🌱 I’m currently learning Python and C++;
