@@ -12,9 +12,8 @@ git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git
 git clone https://github.com/wasteland-institute/Book_arrangement.git ./source/_posts
 
 # 安装插件
-npm install hexo -renderer-pug hexo -renderer-stylus  --save
-npm install hexo-abbrlink --save
-npm install hexo-generator-search --save
+npm install hexo-renderer-pug hexo-renderer-stylus hexo-generator-search hexo-abbrlink --save
+
 # 问题修复命令
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 
