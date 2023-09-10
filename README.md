@@ -12,7 +12,7 @@
 
 ![githubstatus](https://github-readme-stats.vercel.app/api?username=edge-coordinates&show_icons=true&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/Edge-coordinates?template=classic&repositories.affiliations=admin&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/Edge-coordinates?template=classic&repositories.affiliations=admin&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) -->
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
