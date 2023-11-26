@@ -17,14 +17,20 @@
 
 - Old times (childhood): Learned Scratch and engaged in scientific crafting when I was a child.Opening the door to information technology and creation.
 - 2018-2019: Self-studied information competitions, gained a foundation in **algorithms** and programming languages(**c/c++**).
-- February 2022: Started learning software engineering, studied **Python**, and created [a small game](https://github.com/Edge-coordinates/Outer_space), [a Django library website](https://github.com/ICS-Community/ICS-Library/tree/Django_old), and [a novel data crawling project](https://github.com/ICS-Community/ICS-Library/tree/Django_old/Bookspider) using Python.
-> I have also written some other small projects with python, and [some plugins]() developed/modified for PagerMaid-Pyro have been well-received.  
+- February 2022: Started learning software engineering, studied **Python**, and created [a small game](https://github.com/Edge-coordinates/Outer_space), [a **Django** library website](https://github.com/ICS-Community/ICS-Library/tree/Django_old), and [a novel **data crawling** project](https://github.com/ICS-Community/ICS-Library/tree/Django_old/Bookspider) using Python.
+> I have also written some other small projects with python, and [some plugins](https://github.com/Edge-coordinates/TGbot) developed/modified for PagerMaid-Pyro have been well-received.  
 > **Reading List:** 
-- June 2022: Started learning JS and various miscellaneous topics(such as database). Developed some small projects and served as one of the the main member of the iFlytek tablet cracking workgroup.  
-> During this period, I focused on practicing and created [Lite Reader](https://github.com/Edge-coordinates/Electonrn_learning/tree/master/Lite_reader-V0.0.1) (the first generation of an unprecedented super-lightweight computer novel reader) and [Study_lab](https://github.com/Edge-coordinates/Electonrn_learning/tree/master/Study_Lab_ts_01) (a project mainly created for competitions, it includes the second version of the reader).   
-> I attempted to deploy some open-source projects to enhance my server usage skills and submit a few issues.  
+- June 2022: Started learning JS and various miscellaneous topics(such as **database**). Developed some small projects and served as one of the the main member of the iFlytek tablet cracking workgroup.    
+During this period, I focused on practicing and created [Lite Reader](https://github.com/Edge-coordinates/Electonrn_learning/tree/master/Lite_reader-V0.0.1) (the first generation of an unprecedented lightweight computer novel reader) and [Study_lab](https://github.com/Edge-coordinates/Electonrn_learning/tree/master/Study_Lab_ts_01) (a project mainly created for competitions, it includes the second version of the reader).   
+> **Study records:**  
+> - I attempted to deploy some open-source projects to **enhance my server usage skills** and submit a few issues.  
+> - **JavaScript**, **TypeScript**(Only know the surface), **Electron**, **nodejs**, **express**, ORM(**Prisma**), **React**, **Vue**(Superficial understanding)  
+> 
 > **Reading List:** 
-- Miscellaneous Notes: Scripting is truly a very interesting activity! [Light_tools](https://github.com/Edge-coordinates/Light_tools)(some utility scripts written in Python) [JS Script]()
+> 
+- Miscellaneous Notes: Scripting is truly a very interesting activity! 
+> [Light_tools](https://github.com/Edge-coordinates/Light_tools)<sup>some utility scripts written in Python</sup> [JS_tools](https://github.com/Edge-coordinates/JS_tools)
+- June 2022: Not bad, the summer vacation is always a landmark stage. Although most of this summer vacation seems to have been spent on entertainment, I started learning Svelte and delved into some distributed knowledge. And also how to manage projects and development teams. Created [Edge_Navigation](https://github.com/Edge-coordinates/Edge_Navigation) (abandoned in the end due to being too complicated qwq) and [Waterfall_picture_viewer](https://github.com/Edge-coordinates/Waterfall_picture_viewer) (a minimalist waterfall image viewer, currently the highest-starred project).
 - 
 
 **The story continues.**
