@@ -52,4 +52,4 @@ During this period, I focused on practicing and created [Lite Reader](https://gi
 [<img height="26" src="https://shields.io/badge/telegram-ffffff.svg?style=flat-square&logo=telegram" alt="Telegram" />](https://t.me/edge_wasteland)
 [<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/MythEdger)
 
-<!-- <p align="center">Visitors<br><br><img src='https://profile-counter.glitch.me/edge-coordinates/count.svg'/></p> -->    
+<p align="center">Visitors<br><br><img src='https://profile-counter.glitch.me/edge-coordinates/count.svg'/></p>    
