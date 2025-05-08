@@ -22,6 +22,6 @@
 [<img height="26" src="https://shields.io/badge/MailClient-30B980.svg?style=flat-square&logo=amazonsimpleemailservice" alt="MailClient" />](mailto:edgecoordinates@gmail.com?subject=Hello)
 [<img height="26" src="https://shields.io/badge/Gmail-005FF9.svg?style=flat-square&logo=gmail" alt="gmail" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=edgecoordinates@gmail.com&su=Hello)
 [<img height="26" src="https://shields.io/badge/telegram-ffffff.svg?style=flat-square&logo=telegram" alt="Telegram" />](https://t.me/edge_wasteland)
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://x.com/ecoordinates)
+[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=x" alt="X" />](https://x.com/ecoordinates)
 
 <p align="center">Visitors<br><br><img src='https://profile-counter.glitch.me/edge-coordinates/count.svg'/></p>    
