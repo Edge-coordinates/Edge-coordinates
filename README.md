@@ -3,6 +3,8 @@
 
 **行走于世界边缘，荒原的拾荒人**
 
+**Walking on the Edge of the World, a Scavenger of the Wasteland.**
+
 
 ![Metrics](github-metrics.svg)
 
