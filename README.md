@@ -8,7 +8,7 @@
 
 ![Metrics](github-metrics.svg)
 
-![githubstatus](https://github-readme-stats.vercel.app/api?username=edge-coordinates&show_icons=true&theme=radical)
+![githubstatus](https://github-stats-extended.vercel.app/api?username=edge-coordinates&show_icons=true&theme=radical)
 
 ![Metrics_wakatime](metrics.plugin.wakatime.svg)
 
